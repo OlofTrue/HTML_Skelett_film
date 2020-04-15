@@ -93,6 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HomePage.html" />
+    <Content Include="Style_Skelett_film.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
